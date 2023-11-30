@@ -1,0 +1,6 @@
+com\sobtech\crud\data\MySQLConnection.class
+com\sobtech\crud\StudentController.class
+module-info.class
+com\sobtech\crud\App.class
+com\sobtech\crud\data\AppQuery.class
+com\sobtech\crud\model\Student.class
